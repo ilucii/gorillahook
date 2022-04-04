@@ -4,7 +4,7 @@
 
 This project is not free and costs $5. You may purchase over on my discord, 2w2#8888
 
-The most recent update was on 3/31/2022.
+The most recent update was on 4/4/2022.
 
 This Cheat is multi-purpose and the games it supports will be listed below, along with an explanation on what type of cheat it is.
 
