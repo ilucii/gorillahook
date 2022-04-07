@@ -2,9 +2,9 @@
 
 ![](https://img.shields.io/badge/build-1.0.0.0-blue?style=flat-square&logo=4chan&color=006600)
 
-This project is not free and costs $5. You may purchase over on my discord, 2w2#8888
+This project is not free and costs $5. You may purchase over on my discord, vohl#1111
 
-The most recent update was on 4/4/2022.
+The most recent update was on 4/7/2022.
 
 This Cheat is multi-purpose and the games it supports will be listed below, along with an explanation on what type of cheat it is.
 
@@ -24,7 +24,7 @@ Mod Menu/Cheat Menu
   Serversided Script, Along with a Synapse X only script hub.
 ## What's new?
 - Released to Public
-- 2w2#8888 
+- vohl#1111
 - GorillaHook on top!
   - AthenaHook consists of 4 games: CSGO, Minecraft, Roblox and Gorilla Tag. 
   - It was originally created as a Cheat for Gorilla Tag, but branched out into multiple games.
